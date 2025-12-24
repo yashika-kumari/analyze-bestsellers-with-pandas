@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Generated analysis outputs
+top_authors.csv
+avg_rating_by_genre.csv
+genre_counts.csv
+price_stats_by_genre.csv
+rating_stats_by_genre.csv
+top_expensive_books.csv
+top_rated_books.csv
+data_quality_report.txt
+avg_rating_by_genre.png
